@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi');
+body{
+    background-image: radial-gradient( circle farthest-corner at 11.7% 80.6%,  rgba(249,185,255,1) 0%, rgba(177,172,255,1) 49.3%, rgba(98,203,255,1) 89% );;
+}
+.avatarstyle{
+    width: 200px;
+    height: 400px;
+    
+}
+.style{
+  
+    font-style: italic;
+}
+.btn{
+    background-color: darkred;
+    
+}
+.mainpage{
+    width:90%;
+    height: 100vh;
+    margin:auto;
+    font-family: 'Gugi', cursive;;
+}
